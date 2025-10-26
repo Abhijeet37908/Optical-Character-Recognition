@@ -21,7 +21,7 @@
 <p align="center">
   A lightweight and efficient Android-based OCR app developed 
 <br />
-  <strong>Explore the Repository</strong></a>
+ 
   <br /><br />
   Extract text from images with high accuracy using on-device processing.
 </p>
@@ -53,6 +53,7 @@ This project is built using the following open-source tools and libraries:
 - [Google ML Kit](https://developers.google.com/ml-kit)
 - Android SDK
 - Jetpack libraries
+
 
 
 
