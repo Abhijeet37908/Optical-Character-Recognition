@@ -19,8 +19,8 @@
 <h3 align="center" style="text-align:center">OCR — Optical Character Recognition</h3>
 
 <p align="center">
-  A lightweight and efficient Android-based OCR app developed by Sumit.
-  <br />
+  A lightweight and efficient Android-based OCR app developed 
+<br />
   <a href="https://github.com/sumitprakash61/Optical-character-recognition-ocr"><strong>Explore the Repository</strong></a>
   <br /><br />
   Extract text from images with high accuracy using on-device processing.
@@ -46,16 +46,6 @@ This project uses OCR to identify and extract printed or handwritten text from i
 
 ---
 
-## 📂 Repository Details
-
-- **Project Name**: OCR (Optical Character Recognition)
-- **Platform**: Android
-- **Owner**: [Sumit](https://github.com/sumitprakash61)
-- **Tech Stack**: Java, Android SDK, ML Kit
-- **Repository**: [OCR GitHub Repo](https://github.com/sumitprakash61/Optical-character-recognition-ocr)
-
----
-
 ## 🙏 Credits
 
 This project is built using the following open-source tools and libraries:
@@ -64,6 +54,4 @@ This project is built using the following open-source tools and libraries:
 - Android SDK
 - Jetpack libraries
 
----
 
-> Made by Sumit
